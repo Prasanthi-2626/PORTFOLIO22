@@ -308,7 +308,13 @@ img {
 }
 
 .home__blob-img {
-  width: 220px;
+  width: 200px;
+}
+.home__img {
+  width: 500px;
+  border-radius: 2 rem;
+  justify-self: center;
+  align-items: center;
 }
 
 .home__data {
